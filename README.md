@@ -3,7 +3,6 @@ RSA - CTF
 https://travis-ci.com/pedroarruti/RSA-CTF.svg?branch=master
 > Pedro Arruti | April 12th, 2020
 
-[![RSA - CTF](https://travis-ci.com/pedroarruti/RSA-CTF.svg?branch=master)](https://travis-ci.com/pedroarruti/RSA-CTF)
 --------------------------
 
 ## Starting from e1, e2, n, c1 and c2
