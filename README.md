@@ -1,6 +1,6 @@
 RSA - CTF
 ===============
-https://travis-ci.com/pedroarruti/RSA-CTF.svg?branch=master
+
 > Pedro Arruti | April 12th, 2020
 
 --------------------------
