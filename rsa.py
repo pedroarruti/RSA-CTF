@@ -53,20 +53,6 @@ def rsa(c1, c2, n, a, b, gcd):
 
     return h[2:].decode('hex')
 
-def pedir_param():
-    print("Introduce e1:")
-    e1 = input()
-    print("Introduce e2:")
-    e2 = input()
-    print("Introduce n:")
-    n = input()
-    print("Introduce c1:")
-    c1 = input()
-    print("Introduce c2:")
-    c2 = input()
-
-    return e1, e2, n, c1, c2
-
 def main():
     print("RSA CTF - From n, e1, e2, c1 and c2 to m\n")
     parser = argparse.ArgumentParser()
