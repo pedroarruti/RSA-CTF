@@ -26,4 +26,4 @@ optional arguments:
 
 ## Authors
 
-* **Pedro Arruti** - [GitHub](https://https://github.com/pedroarruti)
+* **Pedro Arruti** - [GitHub](https://github.com/pedroarruti)
